@@ -1,6 +1,6 @@
 # HEART-DISEASE-PREDICTION-
 This project uses machine learning to predict the likelihood of heart disease based on various health indicators. Built with Python and scikit-learn, the model applies logistic regression to classify patients as having heart disease or not.
-Features
+#FREATURES
 Data Loading & Preprocessing: Loads the dataset, handles missing values, and prepares features and target variables for model training.
 Exploratory Data Analysis: Basic statistics, shape, and class distribution of the dataset.
 Model Training: Implements logistic regression for binary classification.
