@@ -35,7 +35,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-detection.git
+   https://github.com/nikhilyedelli/HEART-DISEASE-PREDICTION-/edit/main/README.md
 
 
 
