@@ -36,10 +36,19 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    https://github.com/nikhilyedelli/HEART-DISEASE-PREDICTION-/edit/main/README.md
+## Usage
 
+1. **Data Preprocessing**: Run the preprocessing script to clean and prepare the dataset.
+   ```bash
+   python preprocess.py
 
+### Model
+The project includes several classification models such as:
 
-
+- Logistic Regression
+- Random Forest
+- Support Vector Machine
+- K-Nearest Neighbors
 
 
 
