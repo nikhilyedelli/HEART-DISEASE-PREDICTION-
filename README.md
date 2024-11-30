@@ -10,10 +10,7 @@ A machine learning project to predict the presence of heart disease in patients 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model](#model)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
+-
 ## Introduction
 
 Heart disease is a leading cause of death worldwide, making early detection crucial for improving patient outcomes. This project uses machine learning models trained on health metrics like age, blood pressure, cholesterol level, and more to predict the likelihood of heart disease.
